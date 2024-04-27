@@ -25,8 +25,8 @@ Step 5: Working with the MainActivity2 File
 ```
 /*
 Workshop on developing an android application to pass the data between the activities using Intent .
-Developed by: SOORYA R
-Registeration Number : 212221040158
+Developed by: Mathan M
+Registeration Number : 212221040102
 */
 ```
 ### In activity_main.xml
@@ -366,9 +366,12 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![mad1](https://github.com/Soorya7/workshop-1/assets/105735689/065156f1-6450-4422-bb7a-c3708093a183)
-![mad2](https://github.com/Soorya7/workshop-1/assets/105735689/f399e26d-5b93-4749-8b62-476e0d41f7fc)
-![mad3](https://github.com/Soorya7/workshop-1/assets/105735689/41958a3b-a2a9-49fa-9927-71f9634cd90a)
+![MAD OP1](https://github.com/Mathananthi/Workshop1/assets/135731816/0812cb0c-6d3a-4a38-82f5-6a4b6ac8819f)
+![MAD OP2](https://github.com/Mathananthi/Workshop1/assets/135731816/3117c7b4-445b-40c2-9be1-901c1d9f3ee9)
+![MAD OP3](https://github.com/Mathananthi/Workshop1/assets/135731816/c499ce98-629a-4b1d-ab04-430c92ec862c)
+
+
+
 
 
 ## RESULT
